@@ -21,6 +21,7 @@ That being said I would love to eventually work on apps focused on Minecraft to 
 I also went to school for GIS and am very interested in working with mapping API's.
 
 I can be reached at...
+  
   @JeremyWriston on Twitter
   
   www.linkedin.com/in/jeremy-wriston
