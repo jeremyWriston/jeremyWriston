@@ -22,6 +22,8 @@ I also went to school for GIS and am very interested in working with mapping API
 
 I can be reached at...
   
+  jeremy.wriston@gmail.com
+  
   @JeremyWriston on Twitter
   
   www.linkedin.com/in/jeremy-wriston
