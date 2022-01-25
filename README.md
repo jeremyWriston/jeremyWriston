@@ -22,7 +22,9 @@ I also went to school for GIS and am very interested in working with mapping API
 
 I can be reached at...
   @JeremyWriston on Twitter
+  
   www.linkedin.com/in/jeremy-wriston
+  
   https://www.facebook.com/iktoplasm
 
 Cheers!
